@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56b3b6ca532ac314dbe3c34714d09663, type: 3}
+  m_Name: GrapplingGun
+  m_EditorClassIdentifier: 
+  abilityName: GrapplingGun
+  abilityLevel: 0
+  abilitySprite: {fileID: 21300000, guid: cd1096ef533d9ba489a64973b5dd816a, type: 3}
+  ability: {fileID: 7215890223705121546, guid: 68dc8de7f23ddf247b6d394582a71bdb, type: 3}

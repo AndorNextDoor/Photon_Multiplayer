@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56b3b6ca532ac314dbe3c34714d09663, type: 3}
+  m_Name: Fireball_Giant
+  m_EditorClassIdentifier: 
+  abilityName: FireballGiant
+  abilityLevel: 2
+  abilitySprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+  ability: {fileID: 6553703967142956763, guid: 12682886f0c969b4bbb144585267c996, type: 3}
